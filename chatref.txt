@@ -4,3 +4,6 @@ https://chatgpt.com/share/6868bdba-65cc-800b-9473-bd1b4a9be0a5
 
 Task 01
 https://chatgpt.com/share/686b5b48-ef34-800b-8fcd-e2c6a1cf247f
+
+for the implementation logic on folder named "imagenet_classifier"
+https://chatgpt.com/share/688b0e6a-0850-800b-b4fc-e842f0c432c9
